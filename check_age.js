@@ -36,7 +36,7 @@ if ( age > 18  || firstName == 'Bram') {
 
 if (totalAmount > 25 & totalAmount <= 50) {
     console.log ('You get free bitterballen');
-} else if (totalAmount > 50 & totalAmount < 100) {
+} else if (totalAmount > 50 & totalAmount <= 100) {
         console.log ('You get portion of nachos');
 } else if (totalAmount > 100) {
     console.log ('You get free bottle of champagne');
