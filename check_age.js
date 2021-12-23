@@ -1,8 +1,8 @@
-let age = 19;
-let isFemale = false;
-let driverStatus = 'bob';
-let firstName='Bram';
-let totalAmount= 30;
+const age = 19;
+const isFemale = false;
+const driverStatus = 'bob';
+const firstName='Bram';
+const totalAmount= 30;
 
 if (age > 18) {
     console.log('The Person is allowed in');
